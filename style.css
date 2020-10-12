@@ -8,6 +8,6 @@ footer {
 
 .container {
   position: relative;
-  top: 50%;
+  top: 50% !important;
   transform: translateY(-50%);
 }
