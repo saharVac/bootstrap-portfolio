@@ -3,10 +3,12 @@ h3 {
 }
 
 footer {
+  background-color: #590925 !important;
+  height: 120px;
   padding: 0% !important;
 }
 
-.container {
+footer .container {
   position: relative;
   top: 50% !important;
   transform: translateY(-50%);
