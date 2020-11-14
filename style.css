@@ -1,9 +1,25 @@
+* {
+  color: black !important;
+}
+
+nav,
+footer {
+  background-color: #586f99 !important;
+}
+
+main {
+  padding-bottom: 60px;
+}
+
+.card {
+  margin-top: 20px;
+}
+
 h3 {
   text-align: center;
 }
 
 footer {
-  background-color: #590925 !important;
   height: 120px;
   padding: 0% !important;
 }
